@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+}
+
+.lista {
+    border: 2px solid #000000;
+    border-radius: 10px;
+    width: 300px;
+    padding: 13px;
+    margin: 20px;
+}
